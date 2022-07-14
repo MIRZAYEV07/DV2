@@ -85,3 +85,4 @@ game.gif
 venv*
 
 pyvenv.cfg
+db.sqlite3
